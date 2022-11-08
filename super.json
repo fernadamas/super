@@ -46,6 +46,18 @@
         "Damage resistance",
         "Superhuman reflexes"
       ]
-    }
+    },
+    {
+      "name" : "Iron man",
+      "age" : 59,
+      "secretIdentity" : "Anthony Stark",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    },
   ]
 }
